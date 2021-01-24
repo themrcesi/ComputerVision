@@ -6,9 +6,9 @@ In this repository you can find the four assignments from the Computer Vision co
 
 [The second one](https://github.com/themrcesi/ComputerVision/tree/main/Pr%C3%A1ctica2), consisting of some exercises related to camera calibration.
 
-[The third one](), consisting of some exercises related to stereo vision.
+[The third one](https://github.com/themrcesi/ComputerVision/tree/main/Pr%C3%A1ctica3), consisting of some exercises related to stereo vision.
 
-[The final one](), consisting of two image classification problems using Deep Learning.
+[The final one](https://github.com/themrcesi/ComputerVision/tree/main/Pr%C3%A1ctica4), consisting of two image classification problems using Deep Learning.
 
 Check the links above for further info about the projects.
 
